@@ -1,4 +1,4 @@
-(defproject com.nomistech/serdes "0.1.0"
+(defproject com.nomistech/serdes "0.2.0"
   :url         "https://github.com/simon-katz/com-nomistech-serdes"
   :description "EDN-like serdes, but with \"nomis-edn: \" prepended"
   :license     {:name "EPL-2.0 OR GPL-2.0-or-later WITH Classpath-exception-2.0"
