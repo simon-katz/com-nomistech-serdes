@@ -6,7 +6,7 @@
   (:import (java.nio.charset StandardCharsets))
   (:gen-class
    :implements [org.apache.kafka.common.serialization.Serde]
-   :name com.nomistech.NomisEdnSerde
+   :name com.nomistech.serdes.NomisEdnSerde
    :prefix "NomisEdnSerde-"))
 
 ;;;; Based on `jackdaw.serdes.edn2`.
