@@ -1,6 +1,6 @@
 (defproject com.nomistech/serdes "0.3.0-SNAPSHOT"
   :url         "https://github.com/simon-katz/com-nomistech-serdes"
-  :description "EDN-like serdes, but with \"nomis-edn: \" prepended"
+  :description "A bunch of serdes."
   :license     {:name "EPL-2.0 OR GPL-2.0-or-later WITH Classpath-exception-2.0"
                 :url "https://www.eclipse.org/legal/epl-2.0/"}
 

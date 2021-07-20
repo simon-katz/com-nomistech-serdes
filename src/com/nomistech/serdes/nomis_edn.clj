@@ -1,6 +1,5 @@
 (ns com.nomistech.serdes.nomis-edn
-  "Implements a hacked EDN SerDes (Serializer/Deserializer), with
-  \"nomis-\" as a prefix."
+  "Implements a hacked EDN serdes, with a prefix in the serialized data."
   (:require [clojure.edn]
             [jackdaw.serdes.fn :as jsfn])
   (:import (java.nio.charset StandardCharsets))
